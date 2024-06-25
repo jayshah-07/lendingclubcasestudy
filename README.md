@@ -29,12 +29,12 @@
 - Customer with Grade A has lowest interest rate while Grade G has highest rate of interest. Intrest rates increases gradually moving form A to G.
 - Sub Grade A1 has lowest rate of interest.
 - with increase in loan amount installment per month also increases lineraly.
-- Large number of loan amount applications are in the range of 0 - 40K anual income.
+- Large number of defaulter loan applications are in the range of 0 - 40K annual income.
 - Large number of loan amount applications fall in the range of 5k to 10k.
-- debt_consolidation is the major purpose for seeking loan.
+- Major purpose for seeking loan is 'debt_consolidation'.
 - small buiness has highest charge off ratio and is risky for loan.
 - Majorty of customers are in employment for 10 and more years while next immediate value is for < 1 year.
-- Median value for interest rate is 11.78
+- Median value for interest rate is 11.78 (round off to 12%)
 - Median value for loan amount is 9600
 - long term loan has high change of default as charge of ratio is higher 26%.
 - Scaling down the Loan amount shows a low number of defaults. So whatever considerations made in planning on scaling have done well in reducing defaults.
